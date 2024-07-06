@@ -37,3 +37,4 @@ video()
 def clear_photo_video_folder():
     date_now = datetime.today().strftime('%d-%m-%Y %H-%M')
 
+
