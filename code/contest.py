@@ -1,3 +1,4 @@
+
 from video_recorder import Record
 def record_video(request):
     if request.config.getoption('--record_vid') == 'true':
